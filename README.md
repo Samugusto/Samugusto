@@ -4,7 +4,7 @@
 <tr>
 <td align="center" width="900">
 
-<img src="https://s5.ezgif.com/tmp/ezgif-5837688e38645ec8.gif" width="100%"><br>
+<img src="https://64.media.tumblr.com/e6713f600f3506a967996be545d2929e/9b9f80d127ad5a45-09/s540x810/8f755c75847a9eeb7283913fd2a23b03b6dcbfda.gif" width="75%"><br>
 
 <br>
 
