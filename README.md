@@ -19,7 +19,7 @@
 <a href="https://steamcommunity.com/profiles/76561199001302778/">
 <b>[steam]</b>
 </a>
-<a href="https://clever-platypus-46396c.netlify.app">
+<a href="https://clever-platypus-46396c.netlify.app](https://tourmaline-hotteok-53d358.netlify.app">
 <b>[more]</b><br>
 </a>
 About Me<br>
