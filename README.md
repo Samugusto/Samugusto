@@ -13,13 +13,13 @@
 <font color="#9ca3af">
  Junior Developer • ADS Student<br>
 </font>
-<a href="https://www.instagram.com/samuzoca/">
+<a href="https://www.instagram.com/samuzoca/" target="_blank">
 <b>[instagram]</b>
 </a><br>
-<a href="https://steamcommunity.com/profiles/76561199001302778/">
+<a href="https://steamcommunity.com/profiles/76561199001302778/" target="_blank">
 <b>[steam]</b>
 </a>
-<a href="https://tourmaline-hotteok-53d358.netlify.app">
+<a href="https://tourmaline-hotteok-53d358.netlify.app" target="_blank">
 <b>[more]</b><br>
 </a>
 About Me<br>
