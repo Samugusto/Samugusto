@@ -11,16 +11,16 @@
 <b>What's up?</b><br>
 
 <font color="#9ca3af">
- Junior Developer • ADS Student<br>
+ Junior Developer • Student<br>
 </font>
 <a href="https://www.instagram.com/samuzoca/" target="_blank">
-<b>[instagram]</b>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/500px-Instagram_icon.png" width="3%">
 </a><br>
 <a href="https://steamcommunity.com/profiles/76561199001302778/" target="_blank">
-<b>[steam]</b>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/960px-Steam_icon_logo.svg.png" width="3%">
 </a>
 <a href="https://tourmaline-hotteok-53d358.netlify.app" target="_blank">
-<b>[more]</b><br>
+<b>[about me]</b><br>
 </a>
 About Me<br>
 <font color="#cbd5f5">
