@@ -11,7 +11,8 @@
 <b>What's up?</b><br>
 
 <font color="#9ca3af">
- Junior Developer • Student<br>
+ Junior Developer • Student
+ 🇧🇷/🇺🇸<br>
 </font>
 <a href="https://www.instagram.com/samuzoca/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/500px-Instagram_icon.png" width="3%">
