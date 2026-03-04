@@ -20,7 +20,7 @@
 <a href="https://steamcommunity.com/profiles/76561199001302778/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/960px-Steam_icon_logo.svg.png" width="3%">
 </a><br>
-<a href="https://tourmaline-hotteok-53d358.netlify.app" target="_blank">
+<a href="" target="_blank">
 <img src="https://preview.redd.it/stop-everything-what-is-the-best-ralsei-sprite-v0-38ti1lkke7qe1.png?width=199&format=png&auto=webp&s=ef6448a4bbcae8bf2a328a076682be35d287a782" width="6%">
 </a><br>
 About Me<br>
