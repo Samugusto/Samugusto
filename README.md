@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=19&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=435&separator=%3C&lines=hello+there!)](https://git.io/typing-svg)
 
 <font color="#9ca3af">
- Junior Developer • Student
+ Stater Developer • Student
  🇧🇷/🇺🇸<br>
 </font>
 <a href="https://www.instagram.com/samuzoca/" target="_blank">
