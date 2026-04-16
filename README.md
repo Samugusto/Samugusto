@@ -28,7 +28,7 @@ About Me<br>
   You can call me <b>Sam</b> :)<br>
   17 years old<br>
   studying ADS<br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width="3%">  <img src="https://prosimples.com/wp-content/uploads/2024/01/css-3.png" width="3%">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png" width="3%"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width=3%>  <img src="https://quantumzeitgeist.com/wp-content/uploads/pythoned.png" width=3%>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1280px-HTML5_Badge.svg.png" width="3%">  <img src="https://prosimples.com/wp-content/uploads/2024/01/css-3.png" width="3%">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png" width="3%"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width=3%>  <img src="https://quantumzeitgeist.com/wp-content/uploads/pythoned.png" width=3%>
 
 </td>
 </tr>
