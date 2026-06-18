@@ -13,22 +13,25 @@
 <font color="#9ca3af">
  Starter Developer • Student
  🇧🇷/🇺🇸<br>
-</font>
+ <font color="#9ca3af">
+  Contact:<br>
 <a href="https://www.instagram.com/samuzoca/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/500px-Instagram_icon.png" width="3%">
 </a>
 <a href="https://steamcommunity.com/profiles/76561199001302778/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/960px-Steam_icon_logo.svg.png" width="3%">
+ <a href="mailto:samuaugbarbosa@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="3%" alt="Enviar E-mail" />
+</a>
 </a><br>
-<a href="" target="_blank">
-<img src="https://preview.redd.it/stop-everything-what-is-the-best-ralsei-sprite-v0-38ti1lkke7qe1.png?width=199&format=png&auto=webp&s=ef6448a4bbcae8bf2a328a076682be35d287a782" width="6%">
 </a><br>
-About Me<br>
+<b>About Me:</b><br>
 <font color="#cbd5f5">
   You can call me <b>Sam</b> :)<br>
-  17 years old<br>
-  studying ADS<br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1280px-HTML5_Badge.svg.png" width="3%">  <img src="https://prosimples.com/wp-content/uploads/2024/01/css-3.png" width="3%">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png" width="3%"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width=3%>  <img src="https://quantumzeitgeist.com/wp-content/uploads/pythoned.png" width=3%>
+  I'm 17 years old<br>
+  Studying ADS in <b>Senai</b><br><br>
+ <b>Technologies that i use:</b><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1280px-HTML5_Badge.svg.png" width="3%">  <img src="https://prosimples.com/wp-content/uploads/2024/01/css-3.png" width="3%">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png" width="3%"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width=3%>  <img src="https://quantumzeitgeist.com/wp-content/uploads/pythoned.png" width=3%><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width=3%>
 
 </td>
 </tr>
