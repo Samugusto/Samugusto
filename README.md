@@ -18,8 +18,6 @@
 <a href="https://www.instagram.com/samuzoca/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/500px-Instagram_icon.png" width="3%">
 </a>
-<a href="https://steamcommunity.com/profiles/76561199001302778/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/960px-Steam_icon_logo.svg.png" width="3%">
  <a href="mailto:samuaugbarbosa@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="3%" alt="Enviar E-mail" />
 </a>
