@@ -8,7 +8,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=19&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=435&separator=%3C&lines=hello+there!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2500&pause=1500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Howdy!+How+are+ya%3F)](https://git.io/typing-svg)
 
 <font color="#9ca3af">
  Starter Developer • Student
@@ -26,10 +26,16 @@
 <b>About Me:</b><br>
 <font color="#cbd5f5">
   You can call me <b>Sam</b> :)<br>
-  I'm 17 years old<br>
-  Studying ADS in <b>Senai</b><br><br>
- <b>Technologies that i use:</b><br>
+  I'm 17 years old.<br>
+ Passionate in technology and math.<br>
+  Currently studying ADS in <b>Senai</b><br><br>
+ <b>Technologies i know how to use:</b><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1280px-HTML5_Badge.svg.png" width="3%">  <img src="https://prosimples.com/wp-content/uploads/2024/01/css-3.png" width="3%">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png" width="3%"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width=3%>  <img src="https://quantumzeitgeist.com/wp-content/uploads/pythoned.png" width=3%><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width=3%>
+<hr width="10%">
+<h6> Project i am currently working on:</h6>
+<a href='https://github.com/Samugusto/You-Well'>YouWell</a>
+ |
+<a href='https://github.com/Samugusto/databee'>DataBee</a>
 
 </td>
 </tr>
