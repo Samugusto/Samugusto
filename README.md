@@ -11,9 +11,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2500&pause=1500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Howdy!+How+are+ya%3F)](https://git.io/typing-svg)
 
 <font color="#9ca3af">
- Starter Developer • Student
- 🇧🇷/🇺🇸<br>
- <font color="#9ca3af">
+ Starter Developer • Student<br>
+ <img src='https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/3840px-Flag_of_Brazil.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail' width='2.3%'> / <img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/Flag_of_the_United_States_%281896%E2%80%931908%29.svg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original' width='2.5%'><br>
   Contact:<br>
 <a href="https://www.instagram.com/samuzoca/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/500px-Instagram_icon.png" width="3%">
@@ -24,7 +23,6 @@
 </a><br>
 </a><br>
 <b>About Me:</b><br>
-<font color="#cbd5f5">
   You can call me <b>Sam</b> :)<br>
   I'm 17 years old.<br>
  Passionate in technology and math.<br>
